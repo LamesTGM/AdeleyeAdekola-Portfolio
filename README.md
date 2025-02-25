@@ -8,7 +8,9 @@ Welcome to my cybersecurity portfolio! Here, you'll find a collection of project
   - [IP Address Allow List Management](https://github.com/LamesTGM/IP-Address-Allow-List-Management)
   - [Python Code Debugging](https://github.com/LamesTGM/Python-Code-Debugging)
 - <b>SQL</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [SQL Database Querying](https://github.com/LamesTGM/SQL-Database-Querying)
+- <b>Linux</b>
+  - [Linux File Permissions Management](https://github.com/LamesTGM/Linux-File-Permissions-Managament)
 
 ### Technical Skills
 - **Security Tools**: Splunk, Chronicle, Okta, Entra ID, Active Directory, Google Cloud Console.
