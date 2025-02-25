@@ -11,6 +11,8 @@
 
 <h2>  Certifications</h2>
 
+- [CompTIA Security+](https://www.credly.com/badges/00ecf6a7-591c-4972-8817-62aed171334d/linked_in_profile)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/39452cf6-715a-48c9-9030-491ba7102378/linked_in_profile)
 - [Google Cybersecurity Certificate](https://coursera.org/share/0b5a31b9757e4e994f58b54eddd87c78)
 - [Google Cloud Cybersecurity Professional Certificate](https://coursera.org/share/2ee4d06c3a8acf8b4f9538b411433fda)
 - [Cisco Introduction to Cybersecurity](https://www.credly.com/badges/385a3e95-979d-4ddc-8a07-ba31e468b129/linked_in_profile)
