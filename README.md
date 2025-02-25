@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adeleye! (Ade) <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Music Producer</a></h1>
+<h1>Hi, I'm Adeleye! (Ade) <br/><a href="www.linkedin.com/in/adeleyeadekola">Cybersecurity Analyst</a>, <a href="http://www.youtube.com/@lames_tgm">Music Producer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
