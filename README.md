@@ -11,6 +11,12 @@ Welcome to my cybersecurity portfolio! Here, you'll find a collection of project
 - <b>SQL</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+### Technical Skills
+- **Security Tools**: Splunk, Chronicle, Okta, Entra ID, Active Directory.
+- **Programming**: Python (scripting, automation), Bash, SQL.
+- **Operating Systems**: Windows, Linux (Ubuntu, CentOS).
+- **Frameworks**: NIST, ISO 27001, MITRE ATT&CK.
+
 <h2>  Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/00ecf6a7-591c-4972-8817-62aed171334d/linked_in_profile)
