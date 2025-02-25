@@ -1,5 +1,7 @@
 <h1>Hi, I'm Adeleye! (Ade) <br/><a href="www.linkedin.com/in/adeleyeadekola">Cybersecurity Analyst</a>, <a href="http://www.youtube.com/@lames_tgm">Music Producer</a></h1>
 
+Welcome to my cybersecurity portfolio! Here, you'll find a collection of projects and tools I've developed to enhance security and streamline processes.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
