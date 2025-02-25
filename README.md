@@ -5,9 +5,8 @@ Welcome to my cybersecurity portfolio! Here, you'll find a collection of project
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [IP Address Allow List Management](https://github.com/LamesTGM/IP-Address-Allow-List-Management)
+  - [Python Code Debugging](https://github.com/LamesTGM/Python-Code-Debugging)
 - <b>SQL</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
