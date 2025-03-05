@@ -11,9 +11,11 @@ Welcome to my cybersecurity portfolio! Here, you'll find a collection of project
   - [SQL Database Querying](https://github.com/LamesTGM/SQL-Database-Querying)
 - <b>Linux</b>
   - [Linux File Permissions Management](https://github.com/LamesTGM/Linux-File-Permissions-Managament)
+- <b>Nessus</b>
+  - [Vulnerability Scanning and Remediation](https://github.com/LamesTGM/Vulnerability-Management)
 
 ### Technical Skills
-- **Security Tools**: Splunk, Chronicle, Okta, Entra ID, Active Directory, Google Cloud Console.
+- **Security Tools**: Splunk, Chronicle, Okta, Entra ID, Active Directory, Google Cloud Console, Nessus.
 - **Programming**: Python (scripting, automation), Bash, SQL.
 - **Operating Systems**: Windows, Linux (Ubuntu, CentOS).
 - **Frameworks**: NIST, ISO 27001, MITRE ATT&CK.
