@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adeleye! (Ade) <br/><a href="www.linkedin.com/in/adeleyeadekola">Cybersecurity Analyst</a>, <a href="http://www.youtube.com/@lames_tgm">Music Producer</a></h1>
 
-Welcome to my cybersecurity portfolio! Here, you'll find a collection of projects and tools I've utlilised to enhance security and streamline processes.
+Welcome to my cybersecurity portfolio! I am a dedicated IT and cybersecurity professional with 3+ years of experience in IT security, incident response, and access management. Proficient in Identity and Access Management (IAM), Endpoint Detection and Response (EDR), and security event monitoring, with expertise in Python scripting, SQL database querying, and vulnerability management using tools like Nessus and VirtualBox. Skilled in automating security tasks, such as IP address allow list management and Linux file permissions management, to improve efficiency and reduce manual effort. Certified in CompTIA Security+, ISC2 Certified in Cybersecurity (CC), and Google Cybersecurity Professional Certificate, with a proven ability to troubleshoot security incidents, optimize systems, and implement security best practices. Passionate about enhancing organizational security posture through proactive threat detection and compliance..
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
