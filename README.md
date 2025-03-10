@@ -7,6 +7,8 @@ Welcome to my portfolio! I am a dedicated IT and cybersecurity professional with
 - <b>Python</b>
   - [IP Address Allow List Management](https://github.com/LamesTGM/IP-Address-Allow-List-Management)
   - [Python Code Debugging](https://github.com/LamesTGM/Python-Code-Debugging)
+- <b>Active Directory</b>
+  - [Active Directory Home Lab with PowerShell](https://github.com/LamesTGM/Active-Directory-Home-Lab-with-PowerShell)
 - <b>SQL</b>
   - [SQL Database Querying](https://github.com/LamesTGM/SQL-Database-Querying)
 - <b>Linux</b>
@@ -16,8 +18,9 @@ Welcome to my portfolio! I am a dedicated IT and cybersecurity professional with
 
 ### Technical Skills
 - **Security Tools**: Splunk, Chronicle, Okta, Entra ID, Active Directory, Google Cloud Console, Nessus.
-- **Programming**: Python (scripting, automation), Bash, SQL.
-- **Operating Systems**: Windows, Linux (Ubuntu, CentOS).
+- **Programming**: Python (scripting, automation), Bash, SQL, Powershell.
+- **Operating Systems**: Windows, Linux (Ubuntu, CentOS), Windows 10, Windows Server 2019.
+- **Virtualization**: Oracle VirtualBox.
 - **Frameworks**: NIST, ISO 27001, MITRE ATT&CK.
 
 <h2>  Certifications</h2>
