@@ -19,7 +19,7 @@ Welcome to my portfolio! I am a dedicated IT and cybersecurity professional with
 ### Technical Skills
 - **Security Tools**: Splunk, Chronicle, Okta, Entra ID, Active Directory, Google Cloud Console, Nessus.
 - **Programming**: Python (scripting, automation), Bash, SQL, Powershell.
-- **Operating Systems**: Windows, Linux (Ubuntu, CentOS), Windows 10, Windows Server 2019.
+- **Operating Systems**: Windows 10,11, Linux (Ubuntu, CentOS), Windows Server 2019.
 - **Virtualization**: Oracle VirtualBox.
 - **Frameworks**: NIST, ISO 27001, MITRE ATT&CK.
 
